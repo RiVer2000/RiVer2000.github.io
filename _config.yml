@@ -1,0 +1,16 @@
+# Site settings
+title: Rishabh Verma
+description: My Resume Portfolio
+#baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://rishabhverma.com" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
+
+# User settings
+username: Rishabh Verma
+user_description: I am Rishabh Verma, a junior year undergraduate student pursuing Mechanical Engineering at Visvesvaraya National Institute of Technology, Nagpur. My primary research interest lies in the intersection of Robotics and Commputer Vision. I also spend my time working at <a href="https://mec.vnit.ac.in/people/sschiddarwar/about-me/professional-details/" target="_blank">Dr. Shital S. Chiddarwar</a>’s <a href="https://www.ivlabs.in/" target="_blank">IvLabs</a>, addressing challenges in the application of quadcopters in real-life scenarios. Presently, I am working on the control and flight patterns of a quadcopter in Windfield.
+user_title: Robotics | Motion Planning
+email: vermarishabh2000@gmail.com
+# twitter_username: lorem_ipsum
+# github_username:  github.com/RiVer2000
+# gplus_username:  lorem_ipsum
+
+exclude: ['package.json', 'src' , 'node_modules']
