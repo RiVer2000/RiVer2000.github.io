@@ -6,10 +6,13 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a Graduate Student with Masters in Robotics and Mechatronics from New York University. My primary research interest lies in the intersection of Optimal Control and Perception. Recently I am exploring reinforcement learning for contact rich manipulation. 
-Currently I am working as a Robotics Engineer at [BotCrew LLC](https://robots.botcrew.com/). If our interests align lets connect for mutual growth. 
+I am a Graduate Student with Masters in Robotics and Mechatronics from New York University currently working as a Robotics Engineer at [BotCrew LLC](https://robots.botcrew.com/). My primary research interest lies in the intersection of Optimal Control and Perception. Recently I am exploring reinforcement learning for contact rich manipulation. 
 
-A data-driven personal website
+Previously I worked as a research associate at Professor Giuseppe Loianno's [Agile Robotics and Perception Laboratory](https://arplaboratory.github.io/). During my undergraduate studies I worked in Prof Shital Chiddarwar [IvLabs](https://ivlabs.in/) building quadrotors and working on control architectures to fly them in wind. I spent the summer of 2022 working at Center of Artificial Intelligence and Robotics, DRDO under Dr. Murali Krishna P (Scientist F).
+
+Beyond research I enjoy reading, playing cricket, video games, cooking and sketching.
+
+News
 ======
 
 
