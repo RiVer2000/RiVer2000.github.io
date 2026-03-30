@@ -8,28 +8,16 @@ redirect_from:
 ---
 I am a Graduate Student with Masters in Robotics and Mechatronics from New York University currently working as a Robotics Engineer at [BotCrew LLC](https://robots.botcrew.com/). My primary research interest lies in the intersection of Optimal Control and Perception. Recently I am exploring reinforcement learning for contact rich manipulation. 
 
-Previously I worked as a research associate at Professor Giuseppe Loianno's [Agile Robotics and Perception Laboratory](https://arplaboratory.github.io/). During my undergraduate studies I worked in Prof Shital Chiddarwar [IvLabs](https://ivlabs.in/) building quadrotors and working on control architectures to fly them in wind. I spent the summer of 2022 working at Center of Artificial Intelligence and Robotics, DRDO under Dr. Murali Krishna P (Scientist F).
+Previously I worked as a research associate at Professor Giuseppe Loianno's [Agile Robotics and Perception Laboratory](https://arplaboratory.github.io/). During my undergraduate studies I worked in Prof Shital Chiddarwar [IvLabs](https://ivlabs.in/) building quadrotors and working on control architectures to fly them in wind. Before that I spent the summer of 2022 working at [Center of Artificial Intelligence and Robotics, DRDO](https://www.indiascienceandtechnology.gov.in/organisations/ministry-and-departments/defence-research-and-development-organisation-drdo-govt-india/centre-artificial-intelligence-robotics-cair) under Dr. Murali Krishna P (Scientist F) working on Autonomous Driving in crowded urban intersections.
 
 Beyond research I enjoy reading, playing cricket, video games, cooking and sketching.
 
 News
 ======
-
-
-For those users that need more advanced functionality, the template also supports the following popular tools:
-- [MathJax](https://www.mathjax.org/) for mathematical equations
-- [Mermaid](https://mermaid.js.org/) for diagraming
-- [Plotly](https://plotly.com/javascript/) for plotting
-
-
-**Markdown generator**
-
-<!-- The repository includes [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual Markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the Markdown files, then commit and push them to the GitHub repository.
-
-How to edit your site's GitHub repository -->
-------
-<!-- Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and Markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
-
-Example: editing a Markdown file for a talk
-![Editing a Markdown file for a talk](/images/editing-talk.png) -->
+- [Jan 2026] Our Company has shifted to Austin, Texas.
+- [May 2025] Joined BotCrew LLC as a Robotics Engineer.
+- [Feb 2025] Joined BotCrew LLC as a Robotics Engineering Intern.
+- [Dec 2024] Our paper "Reactive Collision Avoidance for Safe Agile Navigation" accepted at International Conference of Robotics and Automation (ICRA) 2025.
+- [Sep 2023] Joined Agile Robotics and Perception Laboratory (ARPL) under Prof. Giuseppe Loianno as a Graduate Research Assistant.
+- [Sep 2023] Joined NYU 
+- [Apr 2023] Our Paper "From Concept to Reality: An In-Depth Review of Autonomous Driving Strategies and Their Implementation" got accepted in International Conference on Mechanical Design and Manufacturing 2023
