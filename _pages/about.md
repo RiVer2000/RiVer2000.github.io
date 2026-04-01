@@ -19,5 +19,5 @@ News
 - [Feb 2025] Joined BotCrew LLC as a Robotics Engineering Intern.
 - [Dec 2024] Our paper "Reactive Collision Avoidance for Safe Agile Navigation" accepted at International Conference of Robotics and Automation (ICRA) 2025.
 - [Sep 2023] Joined Agile Robotics and Perception Laboratory (ARPL) under Prof. Giuseppe Loianno as a Graduate Research Assistant.
-- [Sep 2023] Joined NYU 
+- [Sep 2023] Joined New York University as a Mechatronics and Robotics Graduate Student.
 - [Apr 2023] Our Paper "From Concept to Reality: An In-Depth Review of Autonomous Driving Strategies and Their Implementation" got accepted in International Conference on Mechanical Design and Manufacturing 2023
