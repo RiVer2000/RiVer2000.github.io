@@ -2,7 +2,7 @@
 title: "​From Concept to Reality: An In-Depth Review of​ ​Autonomous Driving Strategies and Their​ ​Implementation​"
 collection: publications
 category: conferences
-permalink: _publication/2024-02-17-paper-title-number-4
+permalink: _publication/ICMDM23
 excerpt: 'In this paper, we provide a comprehensive review of driving strategies for perception, prediction, and control, particularly emphasizing recent advances in deep learning-based approaches. We also discuss the benefits and limitations of each approach and highlight areas for future research.'
 date: 2023-04-28
 venue: 'International Conference on Mechanical Design and Manufacturing'
