@@ -1,7 +1,10 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "State Estimation and Optical Flow based Tracking of a Quadrotor"
+excerpt: "In this project we develop an Unscented Kalman Filter (UKF) for our IMU driven quadcopter model to fuse the inertial data and the vision-based pose and velocity estimation. <br/><img src='/images/drone.png'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+* Developed a Vision based Pose and Velocity Estimation system for a quadcopter in indoor environment.
+* Implemented Unscented Kalman Filter for State Estimation of a Quadcopter to capture non-linearity more accurately.
+
+![UKD-VE](../../images/UKD-VE.png)
