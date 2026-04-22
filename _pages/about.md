@@ -12,8 +12,6 @@ Previously I worked as a research associate at Professor Giuseppe Loianno's [Agi
 
 Beyond research I enjoy reading, playing cricket, video games, cooking and sketching.
 
----
-
 ## Experience
 
 ### Robotics Engineer — [BotCrew LLC](https://robots.botcrew.com/)
