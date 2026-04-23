@@ -1,6 +1,6 @@
 ---
 title: "Robust Quadcopter Control in Dynamic Windfield"
-excerpt: "In this project we develop an Unscented Kalman Filter (UKF) for our IMU driven quadcopter model to fuse the inertial data and the vision-based pose and velocity estimation. <br/><img src='/images/windmpc.gif'>"
+excerpt: "Designed and benchmarked control architectures (PID, LQR, MPC, and Geometric Controller) for a quadcopter operating in variable windfields, modeling wind disturbances as Gaussian noise and accounting for aerodynamic drag at cruising speeds of 1–5 m/s. <br/><img src='/images/windmpc.gif'>"
 collection: portfolio
 ---
 
