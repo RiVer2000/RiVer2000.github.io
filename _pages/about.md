@@ -24,7 +24,7 @@ Beyond research I enjoy reading, playing cricket, video games, cooking and sketc
 ---
 
 ### Robotics Engineering Intern — [BotCrew LLC](https://robots.botcrew.com/)
-*Feb 2025 – May 2026 | Duluth, Minnesota*
+*Feb 2025 – May 2025 | Duluth, Minnesota*
 
 - Designed and developed a ROS-agnostic, optimized mapping engine as an alternative to NAV2, capable of efficiently handling large-scale maps exceeding 5,000 acres, ensuring scalability and reliability for real-world deployments.
 - Implemented ORB-SLAM3 for RGB-D SLAM on the Gravion Robot, enabling accurate real-time localization and mapping for robust autonomous navigation in dynamic environments.
