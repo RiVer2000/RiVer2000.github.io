@@ -20,6 +20,7 @@ Beyond research I enjoy reading, playing cricket, video games, cooking and sketc
 - Developed a Nonlinear Model Predictive Control (NMPC) system for Reeds-Shepp trajectories with gradient based smoothening for the Company’s Flagship Gravion Robot.
 - Led the development of robust middleware communication pipeline using FastDDS, ensuring efficient, real-time data exchange between distributed robotic modules.
 - Developed a torque-tube and bracket detection system using YOLO26 with TensorRT optimization on the Gravion Robot, generating navigation waypoints to autonomously align the robot relative to detected brackets for precise solar module placement.
+
 ---
 
 ### Robotics Engineer — [BotCrew LLC](https://robots.botcrew.com/)
