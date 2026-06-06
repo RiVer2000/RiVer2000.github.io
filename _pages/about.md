@@ -15,20 +15,27 @@ Beyond research I enjoy reading, playing cricket, video games, cooking and sketc
 ## Experience
 
 ### Robotics Engineer — [BotCrew LLC](https://robots.botcrew.com/)
-*Feb 2025 – Present | Austin, Texas*
+*May 2025 – Present | Austin, Texas*
 
-- Developed a Nonlinear Model Predictive Control (NMPC) system for Reeds-Shepp trajectories with gradient-based smoothing for the company's flagship Gravion Robot
-- Improved inference speed and reliability for the YOLOv8-based object classification pipeline using TensorRT and C++ for deployment in embedded systems
-- Implemented OpenVINS-based Visual-Inertial Odometry in a ROS-free manner for system reliability and deployment-friendly platform integration
+- Developed a Nonlinear Model Predictive Control (NMPC) system for Reeds-Shepp trajectories with gradient based smoothening for the Company’s Flagship Gravion Robot.
+- Led the development of robust middleware communication pipeline using FastDDS, ensuring efficient, real-time data exchange between distributed robotic modules.
+- Developed a torque-tube and bracket detection system using YOLO26 with TensorRT optimization on the Gravion Robot, generating navigation waypoints to autonomously align the robot relative to detected brackets for precise solar module placement.
+---
+
+### Robotics Engineer — [BotCrew LLC](https://robots.botcrew.com/)
+*Feb 2025 – May 2026 | Duluth, Minnesota*
+
+- Designed and developed a ROS-agnostic, optimized mapping engine as an alternative to NAV2, capable of efficiently handling large-scale maps exceeding 5,000 acres, ensuring scalability and reliability for real-world deployments.
+- Implemented ORB-SLAM3 for RGB-D SLAM on the Gravion Robot, enabling accurate real-time localization and mapping for robust autonomous navigation in dynamic environments.
 
 ---
 
 ### Graduate Research Associate — [Agile Robotics and Perception Laboratory](https://arplaboratory.github.io/)
 *Sep 2023 – Jan 2025 | New York University*
 
-- Developed a novel reactive collision avoidance framework integrating perception, planning, and control, improving real-time obstacle detection and response time for quadrotors at speeds up to 7.2 m/s in diverse environments
-- Collaborated with the design team to optimize quadrotor platform, increasing flight time by 26% through firmware improvements, resulting in greater crash resilience and extended mission duration
-- Authored and presented research combining nonlinear model predictive control and adaptive control barrier functions, refining RGB-D data with neural networks to enhance depth accuracy and improve real-time obstacle avoidance
+- Authored and presented research combining NMPC and adaptive control barrier functions, refining RGB-D data with neural networks to enhance depth accuracy and improve real-time obstacle avoidance.
+- Collaborated with the design team to optimize quadrotor platform, increasing flight time by 26% through firmware improvements, resulting in greater crash resilience and extended mission duration.
+- Engineered a multi-source odometry pipeline integrating OpenVINS visual-inertial odometry with PX4’s onboard IMU and barometer, producing a robust fused state estimate for reliable autonomous navigation across GPS-denied environments.
 
 ---
 
