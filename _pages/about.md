@@ -23,7 +23,7 @@ Beyond research I enjoy reading, playing cricket, video games, cooking and sketc
 
 ---
 
-### Robotics Engineer — [BotCrew LLC](https://robots.botcrew.com/)
+### Robotics Engineering Intern — [BotCrew LLC](https://robots.botcrew.com/)
 *Feb 2025 – May 2026 | Duluth, Minnesota*
 
 - Designed and developed a ROS-agnostic, optimized mapping engine as an alternative to NAV2, capable of efficiently handling large-scale maps exceeding 5,000 acres, ensuring scalability and reliability for real-world deployments.
