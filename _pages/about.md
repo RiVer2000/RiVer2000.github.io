@@ -15,7 +15,7 @@ Beyond research I enjoy reading, playing cricket, video games, cooking and sketc
 ## Experience
 
 ### Robotics Engineer — [BotCrew LLC](https://robots.botcrew.com/)
-*May 2025 – Present | Austin, Texas*
+*May 2025 – July | Austin, Texas*
 
 - Developed a Nonlinear Model Predictive Control (NMPC) system for Reeds-Shepp trajectories with gradient based smoothening for the Company’s Flagship Gravion Robot.
 - Led the development of robust middleware communication pipeline using FastDDS, ensuring efficient, real-time data exchange between distributed robotic modules.
