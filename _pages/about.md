@@ -27,7 +27,7 @@ Beyond research I enjoy reading, playing cricket, video games, cooking and sketc
 *Feb 2025 – May 2025 | Duluth, Minnesota*
 
 - Designed and developed a ROS-agnostic, optimized mapping engine as an alternative to NAV2, capable of efficiently handling large-scale maps exceeding 5,000 acres, ensuring scalability and reliability for real-world deployments.
-- Implemented ORB-SLAM3 for RGB-D SLAM on the Gravion Robot, enabling accurate real-time localization and mapping for robust autonomous navigation in dynamic environments.
+- Fused odometry from ORB-SLAM3 and OpenVINS using an Extended Kalman Filter, improving robustness and accuracy for real-time autonomous navigation in dynamic environments.
 
 ---
 
