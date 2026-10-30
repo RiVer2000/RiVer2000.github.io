@@ -27,7 +27,7 @@ May 2025 - Jul 2026
 Feb 2025 - May 2025
 
 - Designed a ROS-agnostic mapping engine, scaling to 5,000+ acre maps enabling deployment on the company’s largest test field sites, showcased in live investor demo.
-- Fused ORB-SLAM3 and OpenVINS odometry via an Extended Kalman Filter, improving navigation robustness in dynamic environments.
+- Fused ORB-SLAM3 and MOLA-LIO odometry via an Extended Kalman Filter, improving navigation robustness in dynamic environments.
 
 ### Agile Robotics and Perception Laboratory
 
